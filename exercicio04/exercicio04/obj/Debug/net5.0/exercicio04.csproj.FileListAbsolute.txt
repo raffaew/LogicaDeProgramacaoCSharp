@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\bin\Debug\net5.0\exercicio04.exe
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\bin\Debug\net5.0\exercicio04.deps.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\bin\Debug\net5.0\exercicio04.runtimeconfig.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\bin\Debug\net5.0\exercicio04.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\bin\Debug\net5.0\exercicio04.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\bin\Debug\net5.0\exercicio04.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\exercicio04.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\exercicio04.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\exercicio04.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\refint\exercicio04.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\exercicio04.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\exercicio04.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\exercicio04\exercicio04\obj\Debug\net5.0\ref\exercicio04.dll
