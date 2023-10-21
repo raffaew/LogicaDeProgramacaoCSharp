@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\exercicio06.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\exercicio06.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\exercicio06.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\bin\Debug\net5.0\exercicio06.exe
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\bin\Debug\net5.0\exercicio06.deps.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\bin\Debug\net5.0\exercicio06.runtimeconfig.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\bin\Debug\net5.0\exercicio06.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\bin\Debug\net5.0\exercicio06.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\bin\Debug\net5.0\exercicio06.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\exercicio06.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\refint\exercicio06.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\exercicio06.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\exercicio06.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\exercicio06\exercicio06\obj\Debug\net5.0\ref\exercicio06.dll

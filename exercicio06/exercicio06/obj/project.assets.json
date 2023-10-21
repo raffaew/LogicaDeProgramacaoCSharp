@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\LogicaDeProgramacaoCSharp\\exercicio06\\exercicio06\\exercicio06.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\LogicaDeProgramacaoCSharp\\LogicaDeProgramacaoCSharp\\exercicio06\\exercicio06\\exercicio06.csproj",
       "projectName": "exercicio06",
-      "projectPath": "C:\\Users\\Rafael\\Desktop\\LogicaDeProgramacaoCSharp\\exercicio06\\exercicio06\\exercicio06.csproj",
+      "projectPath": "C:\\Users\\Rafael\\Desktop\\LogicaDeProgramacaoCSharp\\LogicaDeProgramacaoCSharp\\exercicio06\\exercicio06\\exercicio06.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael\\Desktop\\LogicaDeProgramacaoCSharp\\exercicio06\\exercicio06\\obj\\",
+      "outputPath": "C:\\Users\\Rafael\\Desktop\\LogicaDeProgramacaoCSharp\\LogicaDeProgramacaoCSharp\\exercicio06\\exercicio06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
