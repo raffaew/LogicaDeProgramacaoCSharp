@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\bin\Debug\net5.0\Exercício01.exe
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\bin\Debug\net5.0\Exercício01.deps.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\bin\Debug\net5.0\Exercício01.runtimeconfig.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\bin\Debug\net5.0\Exercício01.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\bin\Debug\net5.0\Exercício01.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\bin\Debug\net5.0\Exercício01.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\Exercício01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\Exercício01.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\Exercício01.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\Exercício01.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\Exercício01.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\refint\Exercício01.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\Exercício01.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\Exercício01.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\Exercício01\Exercício01\obj\Debug\net5.0\ref\Exercício01.dll
