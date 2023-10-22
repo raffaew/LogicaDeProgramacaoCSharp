@@ -6,7 +6,7 @@ namespace Exercício02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite um número inteiro:"); // Solicita ai usuário que digite um número inteiro
+            Console.WriteLine("Digite um número inteiro:"); // Solicita ao usuário que digite um número inteiro
             string input = Console.ReadLine(); // Lê a entrada do usuário e armazena como uma string
 
             // Tenta converter a string 'input' em um número inteiro e armazena o resultado em 'inNum',
