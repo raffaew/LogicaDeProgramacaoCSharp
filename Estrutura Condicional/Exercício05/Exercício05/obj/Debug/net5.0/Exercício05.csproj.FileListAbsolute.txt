@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\bin\Debug\net5.0\Exercício05.exe
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\bin\Debug\net5.0\Exercício05.deps.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\bin\Debug\net5.0\Exercício05.runtimeconfig.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\bin\Debug\net5.0\Exercício05.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\bin\Debug\net5.0\Exercício05.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\bin\Debug\net5.0\Exercício05.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\Exercício05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\Exercício05.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\Exercício05.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\Exercício05.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\Exercício05.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\refint\Exercício05.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\Exercício05.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\Exercício05.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Condicional\Exercício05\Exercício05\obj\Debug\net5.0\ref\Exercício05.dll
