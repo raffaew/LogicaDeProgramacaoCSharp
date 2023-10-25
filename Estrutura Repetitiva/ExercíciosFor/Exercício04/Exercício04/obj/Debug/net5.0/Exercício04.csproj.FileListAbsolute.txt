@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\bin\Debug\net5.0\Exercício04.exe
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\bin\Debug\net5.0\Exercício04.deps.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\bin\Debug\net5.0\Exercício04.runtimeconfig.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\bin\Debug\net5.0\Exercício04.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\bin\Debug\net5.0\Exercício04.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\bin\Debug\net5.0\Exercício04.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\Exercício04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\Exercício04.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\Exercício04.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\Exercício04.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\Exercício04.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\refint\Exercício04.dll
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\Exercício04.pdb
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\Exercício04.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\LogicaDeProgramacaoCSharp\LogicaDeProgramacaoCSharp\Estrutura Repetitiva\ExercíciosFor\Exercício04\Exercício04\obj\Debug\net5.0\ref\Exercício04.dll
